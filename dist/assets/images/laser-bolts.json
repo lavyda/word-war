@@ -1,0 +1,29 @@
+{"frames": {
+
+
+"laser-bolts-1.png":
+{
+	"frame": {"x":0,"y":16,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":16,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"laser-bolts-2.png":
+{
+	"frame": {"x":16,"y":16,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":16,"y":16,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "laser-bolts.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7f6fb2c1047445fcfab361db67ee002e:127626e3a83ab21f1267e686e8428f97:958fc2a5036f0a86644d7fefe6b9fe9e$"
+}
+}
